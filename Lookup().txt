@@ -1,0 +1,75 @@
+						Lookup()
+
+
+*  LOOKUP is an Excel function used to search for a value in a range and return the related value from another range.
+
+lookup() syntax  :--->  
+
+=LOOKUP(lookup_value, lookup_vector, result_vector)
+
+
+explanations 
+
+lookup_value------------>>>What you want to search
+
+lookup_vector---------->>>Where you want to search
+
+result_vector---------->>>From where you want the answer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vlookup()
+
+VLOOKUP searches vertically and returns the required value from the same row
+
+
+
+vlookup() syntax :--->
+
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+lookup_value → Value you want to search
+
+table_array → Complete table/range
+
+col_index_num → Column number from which you want the result
+
+range_lookup → Match type:
+
+FALSE → Exact match
+
+TRUE → Approximate match
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
